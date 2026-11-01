@@ -4,9 +4,9 @@ Small programs from when I was learning to code, kept as a record of where I sta
 
 | File | What it is |
 | --- | --- |
-| `binary tree`, `balance and height of tree` | Binary tree exercises in Java |
-| `Ambulance class`, `cat class`, `catHome class` | Object-oriented programming practice in Java |
-| `text processor` | A Java text processing exercise |
-| `digger input` | A Java input exercise |
-| `snake game` | An early version of Snake in Python |
-| `SQL practice` | SQL query practice |
+| `BinaryTree.java`, `BalanceAndHeightOfTree.java` | Binary tree exercises in Java |
+| `AmbulanceControl.java`, `Cat.java`, `CatHome.java` | Object-oriented programming practice in Java |
+| `TextProcessor.java` | A Java text processing exercise |
+| `DiggerInput.java` | A Java input exercise |
+| `snake_game.py` | An early version of Snake in Python |
+| `sql_practice.sql` | SQL query practice |
